@@ -19,7 +19,14 @@ puts breakfast("pancakes")
 
 # call your methods here
 
-def lunch
+def lunch(lun="grilled cheese")
+  "Lunch is the best time for #{lun}."
+end 
+puts ( "penut butter")
+  
+  "Lunch is the best time for #{lun}."
+  
+  
 
 
 # Call your methods without any arguments here
