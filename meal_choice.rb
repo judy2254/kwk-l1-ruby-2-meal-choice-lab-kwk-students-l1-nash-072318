@@ -9,9 +9,6 @@ def breakfast(breakfas="frosted flakes")
  "Morning is the best time for #{breakfas}."
 end
 
-def breakfast(food="Frosted Flakes")
-  "Morning is the best time for #{food}"
-end
 
 
 # Call the methods with puts and your own arguments here. Like this:
