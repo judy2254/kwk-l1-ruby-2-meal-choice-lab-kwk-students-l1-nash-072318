@@ -19,11 +19,11 @@ puts breakfast("pancakes")
 
 # call your methods here
 
-def lunch(lun="grilled cheese")
+def lunch (lun="grilled cheese")
   "Lunch is the best time for #{lun}."
 end 
 puts ( "penut butter")
-
+ def dinner ()
 
   
   "Lunch is the best time for #{lun}."
