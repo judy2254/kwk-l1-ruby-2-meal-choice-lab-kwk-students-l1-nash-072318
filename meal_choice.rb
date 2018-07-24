@@ -23,7 +23,10 @@ def lunch (lun="grilled cheese")
   "Lunch is the best time for #{lun}."
 end 
 puts ( "penut butter")
- def dinner ()
+ def dinner ( din="salmon")
+   "Dinner is the bset time for #{din}"
+ end 
+ puts dinner ("brocoli")
 
   
   "Lunch is the best time for #{lun}."
