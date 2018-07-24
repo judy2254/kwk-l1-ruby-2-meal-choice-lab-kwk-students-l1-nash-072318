@@ -19,6 +19,7 @@ puts breakfast("pancakes")
 
 # call your methods here
 
+def lunch
 
 
 # Call your methods without any arguments here
